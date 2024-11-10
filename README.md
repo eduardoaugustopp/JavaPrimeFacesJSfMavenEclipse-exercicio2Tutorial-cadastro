@@ -67,7 +67,7 @@ https://tomcat.apache.org/
 ## Introdução ao JSF
 
 - JSF (Java Server Faces)
-- É um framework Model View Controler - MVC (cada camada realiza uma função especifica no sistem, dividindo as responsabilidades) para desenvolvimento de aplicações web Java.
+- É um framework Model View Controler - MVC (cada camada realiza uma função especifica no sistema, dividindo as responsabilidades) para desenvolvimento de aplicações web Java.
 
 ## Características do JSF
 
@@ -647,7 +647,7 @@ public class PessoaMB implements Serializable {
 
 **persistence.xml**
 
-> CursoPU: parâmetro é o valor que vai ser uzado nas classes java que vão executar as persistencias
+> CursoPU: parâmetro é o valor que vai ser usado nas classes java que vão executar as persistencias
 
 > Provider: indica o que está utilizando = hibernate
 
